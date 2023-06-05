@@ -1,4 +1,4 @@
-# Movie_Classification
+# Movie Classification
 
 In this project, I built a classifier that predicts whether a movie is a comedy or a thriller based on the frequency of words in the movie's screenplay. The goal was to explore whether a bag-of-words representation, which describes only the frequencies of individual words, is sufficient to build an accurate genre classifier.
 
